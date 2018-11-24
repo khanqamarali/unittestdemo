@@ -1,0 +1,17 @@
+C:\Users\qkhan1\source\repos\UnitTestDemo\unitTestDemo.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\qkhan1\source\repos\UnitTestDemo\unitTestDemo.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\qkhan1\source\repos\UnitTestDemo\unitTestDemo.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\qkhan1\source\repos\UnitTestDemo\unitTestDemo.Tests\bin\Debug\netcoreapp2.1\unitTestDemo.Tests.deps.json
+C:\Users\qkhan1\source\repos\UnitTestDemo\unitTestDemo.Tests\bin\Debug\netcoreapp2.1\unitTestDemo.Tests.runtimeconfig.json
+C:\Users\qkhan1\source\repos\UnitTestDemo\unitTestDemo.Tests\bin\Debug\netcoreapp2.1\unitTestDemo.Tests.runtimeconfig.dev.json
+C:\Users\qkhan1\source\repos\UnitTestDemo\unitTestDemo.Tests\bin\Debug\netcoreapp2.1\unitTestDemo.Tests.dll
+C:\Users\qkhan1\source\repos\UnitTestDemo\unitTestDemo.Tests\bin\Debug\netcoreapp2.1\unitTestDemo.Tests.pdb
+C:\Users\qkhan1\source\repos\UnitTestDemo\unitTestDemo.Tests\obj\Debug\netcoreapp2.1\unitTestDemo.Tests.csprojAssemblyReference.cache
+C:\Users\qkhan1\source\repos\UnitTestDemo\unitTestDemo.Tests\obj\Debug\netcoreapp2.1\unitTestDemo.Tests.csproj.CoreCompileInputs.cache
+C:\Users\qkhan1\source\repos\UnitTestDemo\unitTestDemo.Tests\obj\Debug\netcoreapp2.1\unitTestDemo.Tests.AssemblyInfoInputs.cache
+C:\Users\qkhan1\source\repos\UnitTestDemo\unitTestDemo.Tests\obj\Debug\netcoreapp2.1\unitTestDemo.Tests.AssemblyInfo.cs
+C:\Users\qkhan1\source\repos\UnitTestDemo\unitTestDemo.Tests\obj\Debug\netcoreapp2.1\unitTestDemo.Tests.dll
+C:\Users\qkhan1\source\repos\UnitTestDemo\unitTestDemo.Tests\obj\Debug\netcoreapp2.1\unitTestDemo.Tests.pdb
+C:\Users\qkhan1\source\repos\UnitTestDemo\unitTestDemo.Tests\bin\Debug\netcoreapp2.1\UnitTestDemo.dll
+C:\Users\qkhan1\source\repos\UnitTestDemo\unitTestDemo.Tests\bin\Debug\netcoreapp2.1\UnitTestDemo.pdb
+C:\Users\qkhan1\source\repos\UnitTestDemo\unitTestDemo.Tests\obj\Debug\netcoreapp2.1\unitTestDemo.Tests.csproj.CopyComplete

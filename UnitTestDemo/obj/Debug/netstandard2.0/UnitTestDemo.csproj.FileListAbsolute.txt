@@ -1,0 +1,9 @@
+C:\Users\qkhan1\source\repos\UnitTestDemo\UnitTestDemo\bin\Debug\netstandard2.0\UnitTestDemo.deps.json
+C:\Users\qkhan1\source\repos\UnitTestDemo\UnitTestDemo\bin\Debug\netstandard2.0\UnitTestDemo.dll
+C:\Users\qkhan1\source\repos\UnitTestDemo\UnitTestDemo\bin\Debug\netstandard2.0\UnitTestDemo.pdb
+C:\Users\qkhan1\source\repos\UnitTestDemo\UnitTestDemo\obj\Debug\netstandard2.0\UnitTestDemo.csprojAssemblyReference.cache
+C:\Users\qkhan1\source\repos\UnitTestDemo\UnitTestDemo\obj\Debug\netstandard2.0\UnitTestDemo.csproj.CoreCompileInputs.cache
+C:\Users\qkhan1\source\repos\UnitTestDemo\UnitTestDemo\obj\Debug\netstandard2.0\UnitTestDemo.AssemblyInfoInputs.cache
+C:\Users\qkhan1\source\repos\UnitTestDemo\UnitTestDemo\obj\Debug\netstandard2.0\UnitTestDemo.AssemblyInfo.cs
+C:\Users\qkhan1\source\repos\UnitTestDemo\UnitTestDemo\obj\Debug\netstandard2.0\UnitTestDemo.dll
+C:\Users\qkhan1\source\repos\UnitTestDemo\UnitTestDemo\obj\Debug\netstandard2.0\UnitTestDemo.pdb
